@@ -23,7 +23,7 @@ Additionally, it includes CSV files utilized or generated throughout our work. E
 To view the contest details on Kaggle, please visit [Kaggle Prompt Engineering (Math) Contest](https://www.kaggle.com/competitions/prompt-engineering-math/overview).
 
 ### Detailed Document
-For more detailed explanations about the project, please refer to the [project documentation PDF](link-to-your-pdf-file.pdf). 
+For more detailed explanations about the project, please refer to the [project documentation PDF](https://github.com/noga1103/workshop/blob/main/Workshop%20in%20Machine%20Learning%20and%20Data%20Analysis%20final%20report%202%20(1).pdf). 
 
 ### Final Submission
 Our winning submission for the competition is encapsulated in the notebook titled contest-notebook-gen5-strong-majority.ipynb.
